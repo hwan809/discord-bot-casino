@@ -1,0 +1,10 @@
+# RENAME FILE TO 'config.yml'
+bot:
+  token: NzUxNjQ0NzU0NjAwNzg4MDY4.X1MFug.cMPkipIC0vJh6pTi9KRyNvD6Pno
+  owner_ids:
+  prefix: '-'
+  default_bet: 100
+  bonus_multiplier: 5 # bonus = default_bet * multiplier
+  lbonus_multiplier: 0.5 # bonus = default_bet * multiplier
+  bonus_cooldown: 1 # Bonus every x hours
+  win_rate: 7
